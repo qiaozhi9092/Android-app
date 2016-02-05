@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Homework6</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Please click button to start build your sandwich!</string>
+    <string name="MyVariable">Click me!</string>
+    <string name="RadioButton_whitebread">White Bread</string>
+    <string name="RadioButton_wheatbread">Wheat Bread</string>
+    <string name="CheckBox_bacon">Bacon</string>
+    <string name="CheckBox_steak">Steak</string>
+    <string name="Button_submit">Submit!</string>
+    <string name="TextView_bread">Choose your bread!</string>
+    <string name="TextView_meat">Choose your meat!</string>
+    <string name="TextView_comment">Any feedback!?</string>
+    <string name="Button_cam">Sure,whatever.</string>
+    <string name="TextView_ask">Do you want to take a random photo?</string>
+    <string name="Button_exit">No,exit</string>
+    <string name="TextView_result">Result</string>
+    
+
+</resources>
